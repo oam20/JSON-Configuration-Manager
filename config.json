@@ -1,0 +1,17 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "name": "mydb"
+    },
+    "api": {
+        "timeout": 60
+    },
+    "logging": {
+        "level": "INFO",
+        "file": "app.log"
+    },
+    "cache": {
+        "enabled": true
+    }
+}
